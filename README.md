@@ -22,3 +22,10 @@ A C++ class for representing a bank account and performing basic banking operati
 | `deposit(double amount)`                 | `void`        | Adds money to the account.      |
 | `withdraw(double amount)`               | `void`        | Removes money form the account if sufficient funds exist.         |
 |`displayAccountInfo() const ` |`void`| Display the account Information.|
+## Program Features
+- Create new bank accounts.
+- Deposit money into an account.
+- Withdraw money form the account.
+- Update the account holder's name.
+- View all account information.
+- Validate user input to prevent invalid operations. 
